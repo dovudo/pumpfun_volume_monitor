@@ -1,0 +1,6 @@
+Flask
+flask==3.0.1
+jinja2
+python-telegram-bot==13.13
+websockets
+werkzeug==3.0.1
